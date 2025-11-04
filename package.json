@@ -1,0 +1,11 @@
+{
+  "name": "sdaw_3154",
+  "version": "1.0.0",
+  "description": "Proyecto básico Node.js para SDAW_3154 - Cristian López Ponce",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Cristian López Ponce",
+  "license": "ISC"
+}
